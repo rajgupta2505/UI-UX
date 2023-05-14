@@ -1,5 +1,9 @@
 UI/UX Projects
 
+[Blackcoffer insights] (https://www.figma.com/file/t2QTy8TPXppgCuq1Gd7Ajz/Blackcoffer-landing-page?type=design&node-id=0%3A1&t=7P1BHIb7ELEV41XP-1)
+
+[yourHR landing page for job seekers] (https://www.figma.com/file/0X094pGgTk6PXg6aiQ5JiR/yourHR?type=design&node-id=0%3A1&t=LtfFomj4N5iUpvMd-1)
+
 [Chating UI for Couples] (https://www.figma.com/file/mMuQLDe4mpCY4hO1HKgwpy/Chat-UI?type=design&node-id=0%3A1&t=gVUCGygzlHkwxw65-1)
 
 [Reward Point Interface] (https://www.figma.com/file/VMzG8DI7jfhWwtxkK4alcc/Reward-Point-Interface?type=design&node-id=0%3A1&t=9c1qAyXAz28Zj2U3-1)
